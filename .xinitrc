@@ -58,7 +58,7 @@ dwmbar &
 # dwmstatus 2>&1 >/dev/null &
 
 # Display Resolution
-xrandr --output DP-1 --mode 2560x1440 --rate 144.00 --primary --left-of DP-2 && xrandr --output DP-2 --mode 2560x1440 --rate 165.00 
+xrandr --output DP-1 --mode 3840x2160 --rate 144.00 --primary --left-of DP-2 && xrandr --output DP-2 --mode 2560x1440 --rate 165.00 
 
 # dpi
 xrdb --merge .Xresources
