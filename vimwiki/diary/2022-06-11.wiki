@@ -1,0 +1,16 @@
+* var hjemme ca. kl. 10
+* er i ok humør
+* har fået sat MSI skærmen op igen
+* har fået toast til aftensmad
+* fik taget en lur
+* 
+
+
+| opgave			| est. tidsforbrug		| E/N/D			| kommentar
+- [X] tage bussen hjem		| 30 min.			| D			| 
+- [X] købe cola			| 10 min. 			| N 			| handle ind i Rema 
+- [X] gå en tur			| 30 min.			| E			|
+- [ ] spille computer		| 60 min.			| E			| The Long Dark?
+- [X] se tv-serie		| 60 min.			| E			| Stranger Things 4?
+
+

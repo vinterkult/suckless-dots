@@ -1,0 +1,7 @@
+* slappe af!
+
+
+| opgave			| est. tidsforbrug		| E/N/D			| kommentar
+- [ ] vaske op			| 15 min.			| D			|
+- [ ] spille V Rising		| 90 min.			| E			| efter aftensmad
+- [ ] 

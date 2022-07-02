@@ -1,0 +1,11 @@
+* spille Apex med Mitch senere
+* har haft besøg af Stine
+
+
+| opgave			| est. tidsforbrug		| E/N/D			| kommentar
+- [X] vaske op			| 15 min.			| D			|
+- [X] støvsuge			| 15 min.			| D			|
+- [X] handle ind		| 30 min.			| D			|
+- [ ] tag en lur		| 30 min.			| E			|
+- [ ] spille et spil		| 90 min.			| E			|
+

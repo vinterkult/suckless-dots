@@ -1,0 +1,10 @@
+* har været nede på Funda og snakket med Tim
+* har ryddet op
+* har vasket op
+* har set første afsnit af Halt and Catch Fire
+
+
+| opgave			| est. tidsforbrug		| E/N/D			| kommentar
+- [X] vaske op			| 15 min.			| D			|
+- [ ] 
+

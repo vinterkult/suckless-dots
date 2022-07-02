@@ -1,0 +1,9 @@
+* bliver undskrevet
+* skal være på hospitalet kl. 10
+
+| opgave			| est. tidsforbrug		| E/N/D			| kommentar
+- [X] rydde op med mor		| 60 min.			| D			|
+- [X] støvsuge			| 15 min.			| D			|
+- [ ] vaske tøj			| 90 min.			| D			|
+- [X] spille V Rising med Stig	| 120 min.			| E			|
+- [X] gameraften med gutterne	| 120 min.			| E			| Rock and stone!

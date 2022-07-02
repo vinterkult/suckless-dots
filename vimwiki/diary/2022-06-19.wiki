@@ -1,0 +1,11 @@
+* sætte picom op
+* finde jellybeans color scheme til ranger
+* finde ud af, hvordan man tilføjer ur til dwm
+* vask op
+
+| opgave			| est. tidsforbrug		| E/N/D			| kommentar
+- [ ] vaske op			| 15 min.			| D			|
+- [ ] sætte picom op		| 30 min.			| N			|
+- [X] ur til dwm bar		| ?				| N			| se Ermmano Ferraris video
+- [ ] 
+

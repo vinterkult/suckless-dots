@@ -1,0 +1,14 @@
+* snakket med læge om plan for indlæggelse
+	- hjemmebesøg idag til i aften
+	- hjemmebesøg med overnatnig lørdag til søndag
+	- måske udskrives mandag
+* er på hjemmebesøg
+* senere skal jeg til body sds (kl. 18:00)
+
+Jeg har det lidt bedre idag. Ingen selvmordstanker. Prøver at slappe af så meget jeg kan. Havde en god samtale med læge og kontaktpersoner. Vi fik lagt en god plan for indlæggelse.
+
+| opgave			| est. tidsforbrug		| E/N/D			| kommentar
+- [ ] samtale med læge		| 15 min.			| D			| snakke om weekenden
+- [ ] snakket
+
+

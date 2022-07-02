@@ -1,0 +1,12 @@
+* gåtur
+* spille V Rising
+* se The Office
+* herregruppe på Funda
+* se Stranger Things
+
+| opgave			| est. tidsforbrug		| E/N/D			| kommentar
+- [X] besøg af Stine		| 60 min.			| N			| kl. 9:30-10:30
+- [X] herregruppe		| 60 min.			| D			| kl. 14:00
+- [X] spille V Rising		| 90 min.			| E			|
+- [ ] se Stranger Things	| 90 min.			| E			|
+

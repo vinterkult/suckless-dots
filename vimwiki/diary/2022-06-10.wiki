@@ -1,0 +1,9 @@
+| opgave			| est. tidsforbrug		| E/N/D			| kommentar
+- [X] snakke med læge		| 15 min.			| D			| snakke om weekenden
+- [X] gåtur			| 30 min.			| E			| enten gå tur hjemme
+- [X] vaske op			| 15 min.			| D			|
+- [ ] rydde op i stuen		| 15 min.			| D			|
+- [X] spille computer		| 60 min.			| E			| The Long Dark
+
+Frokost: Koldskål
+Aftensmad: Toast

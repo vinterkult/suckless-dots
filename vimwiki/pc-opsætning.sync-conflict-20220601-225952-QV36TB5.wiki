@@ -1,0 +1,21 @@
+*Det hvide bæst*
+
+* 120gb ssd (arch linux) - til afmontering
+* 500gb nvme ssd (windows)
+* 1tb ssd (arch linux) - til afmontering
+
+*Det sorte bæst*
+
+* 2x1tb nvme ssd (windows)
+* 2x4tb hdd (RAID0) (backup)
+* 500gb ssd (windows) - til afmontering 
+
+1) tag backup af arch linux + awesomewm + programmer på det hvide bæst
+2) afmonter 120gb + 1tb ssd på det hvide bæst
+3) afmonter 500gb ssd på det sorte bæst
+4) installer 500gb ssd i det hvide bæst
+5) installer 1tb ssd i det sorte bæst
+6) installer arch linux på 500gb ssd i det hvide bæst
+7) installer arch linux på 1tb ssd i det sorte bæst
+
+

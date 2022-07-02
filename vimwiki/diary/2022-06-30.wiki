@@ -1,0 +1,9 @@
+* handlet ind
+* købt grafikkort
+* slappe af
+* spille computer
+* læse
+
+| opgave			| est. tidsforbrug		| E/N/D			| kommentar
+- [X] vaske op			| 15 min.			| D			|
+-  

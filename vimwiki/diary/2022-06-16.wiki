@@ -1,0 +1,8 @@
+* besøg af Felix og DG
+* 
+
+| opgave			| est. tidsforbrug		| E/N/D			| kommentar
+- [X] besøg af Felix		| 60 min.			| N			| kl. 11:00
+- [ ] vaske op			| 10 min.			| D			|
+- [ ] læse			| 30 min.			| E			| Ny manga eller en bog
+
