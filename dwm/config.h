@@ -10,9 +10,9 @@ static const char *fonts[]          = { "hack nerd font:size=10" };
 static const char dmenufont[]       = "hack nerd font:size=10";
 static const char col_gray1[]       = "#1e1e1e";
 static const char col_gray2[]       = "#444444";
-static const char col_gray3[]       = "#bbbbbb";
-static const char col_gray4[]       = "#eeeeee";
-static const char col_cyan[]        = "#7F7F7F";
+static const char col_gray3[]       = "#FF5733";
+static const char col_gray4[]       = "#000000";
+static const char col_cyan[]        = "#FFC300";
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
@@ -23,8 +23,8 @@ typedef struct {
 	const char *name;
 	const void *cmd;
 } Sp;
-const char *spcmd1[] = {"st", "-n", "spterm", "-g", "190x75", NULL };
-const char *spcmd2[] = {"st", "-n", "spfm", "-g", "190x75", "-e", "ranger", NULL };
+const char *spcmd1[] = {"st", "-n", "spterm", "-g", "120x34", NULL };
+const char *spcmd2[] = {"st", "-n", "spfm", "-g", "144x41", "-e", "ranger", NULL };
 const char *spcmd3[] = {"keepassxc", NULL };
 static Sp scratchpads[] = {
 	/* name          cmd  */
@@ -34,7 +34,7 @@ static Sp scratchpads[] = {
 };
 
 /* tagging */
-static const char *tags[] = { "", "", "", "", "", "", "", "", "" };
+static const char *tags[] = { "I", "II", "III", "IV", "V" };
 static const Rule rules[] = {
 	/* xprop(1):
 	 *	WM_CLASS(STRING) = instance, class
